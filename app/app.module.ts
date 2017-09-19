@@ -17,7 +17,7 @@ import ProductDetailComponent from "./components/product-detail/product-detail";
 @NgModule({
     imports:      [ BrowserModule, RouterModule.forRoot([
         {path:'', component:HomeComponent},{
-            path: 'products/:prodTitle', component: ProductDetailComponent
+            path: 'products/:productId', component: ProductDetailComponent
         }
 
     ]) ],
@@ -35,3 +35,7 @@ import ProductDetailComponent from "./components/product-detail/product-detail";
     bootstrap:    [ ApplicationComponent ]
 })
 export class AppModule { }
+//Testing a push to repo
+//more
+//more changes
+//more changes even
