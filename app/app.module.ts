@@ -35,7 +35,3 @@ import ProductDetailComponent from "./components/product-detail/product-detail";
     bootstrap:    [ ApplicationComponent ]
 })
 export class AppModule { }
-//Testing a push to repo
-//more
-//more changes
-//more changes even
