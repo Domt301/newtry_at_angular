@@ -36,3 +36,5 @@ import {FilterPipe} from "./components/pipes/filter-pipe";
     bootstrap:    [ ApplicationComponent ]
 })
 export class AppModule { }
+
+//let me make this change here
