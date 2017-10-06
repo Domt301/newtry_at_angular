@@ -5,5 +5,5 @@ Angular 2 Development with TypeScript
 by Yakov Fain et al. 
 Link: http://a.co/hS0305z
 
-###Check out my Blog
+### Check out my Blog
 Wordpress : https://domthecodingcaveman.wordpress.com/ 
